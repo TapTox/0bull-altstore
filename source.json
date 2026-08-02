@@ -7,6 +7,7 @@
     {
       "name": "0bull Cast",
       "bundleIdentifier": "com.zerobull.cast",
+      "marketplaceID": "6796816526",
       "developerName": "NANIMAD, S.L.",
       "subtitle": "Stream this device's screen to the farm host",
       "localizedDescription": "0bull Cast broadcasts this device's screen to the farm host on your local network.",
