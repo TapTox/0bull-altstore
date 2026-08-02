@@ -11,7 +11,7 @@ and `source.json` already exist — a new release only appends a version.
 | Apple item id / **marketplaceID** | `6796816526` (constant for this app) |
 | App source repo (private) | `TapTox/0bull-next` |
 | Public host repo | `TapTox/0bull-altstore` |
-| Source URL users add | `https://raw.githubusercontent.com/TapTox/0bull-altstore/main/source.json` |
+| Source URL users add | `https://taptox.github.io/0bull-altstore/source.json` |
 | ASC API key | `~/.appstoreconnect/private_keys/AuthKey_Q5W7P3393N.p8`, Key ID `Q5W7P3393N`, Issuer `7b5fc53c-ffcb-449e-8480-ac43770c1579` |
 | Dev team | `2NYMXZBKZ8` |
 | Distribution cert expected by profiles | `iPhone Distribution: NANIMAD, S.L. (2NYMXZBKZ8)` |
@@ -99,7 +99,7 @@ git -C 0bull-altstore add source.json && git -C 0bull-altstore commit -m "Add <X
 
 ### 6. Verify (unauthenticated)
 ```bash
-curl -sL -o /dev/null -w '%{http_code}\n' https://raw.githubusercontent.com/TapTox/0bull-altstore/main/source.json
+curl -sL -o /dev/null -w '%{http_code}\n' https://taptox.github.io/0bull-altstore/source.json
 curl -sL "$BASE/manifest.json" | cmp -s - adp/manifest.json && echo "manifest identical"
 curl -sL -o /dev/null -w '%{http_code}\n' "$BASE/<publicId>.ipa"
 ```

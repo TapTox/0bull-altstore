@@ -5,7 +5,7 @@ AltStore PAL distribution source for **0bull Cast** (`com.zerobull.cast`).
 ## Add this source
 
 ```
-https://raw.githubusercontent.com/TapTox/0bull-altstore/main/source.json
+https://taptox.github.io/0bull-altstore/source.json
 ```
 
 Open that URL in AltStore PAL, or paste it under **Sources → Add Source**.
