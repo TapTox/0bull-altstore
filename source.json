@@ -1,0 +1,48 @@
+{
+  "name": "0bull",
+  "subtitle": "Screen streaming for the 0bull farm",
+  "website": "https://github.com/TapTox/0bull-altstore",
+  "tintColor": "#111111",
+  "apps": [
+    {
+      "name": "0bull Cast",
+      "bundleIdentifier": "com.zerobull.cast",
+      "developerName": "NANIMAD, S.L.",
+      "subtitle": "Stream this device's screen to the farm host",
+      "localizedDescription": "0bull Cast broadcasts this device's screen to the farm host on your local network.",
+      "iconURL": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.0/icon_1024.png",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "2",
+          "marketingVersion": "1.0",
+          "date": "2026-08-02",
+          "localizedDescription": "Initial AltStore PAL release.",
+          "downloadURL": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.0/manifest.json",
+          "assetURLs": {
+            "manifest": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.0/manifest.json",
+            "signature": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.0/signature",
+            "3a7d72f6-10eb-395e-856a-984704cd9ef5": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.0/3a7d72f6-10eb-395e-856a-984704cd9ef5.ipa",
+            "9c12279d-0c6c-315a-8bf7-d8a793ba2a54": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.0/9c12279d-0c6c-315a-8bf7-d8a793ba2a54.ipa",
+            "ab422d46-422c-31ea-883c-3b9f23433b75": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.0/ab422d46-422c-31ea-883c-3b9f23433b75.ipa",
+            "be9b0380-d429-36bb-bd07-e95ce9b98a1e": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.0/be9b0380-d429-36bb-bd07-e95ce9b98a1e.ipa"
+          },
+          "size": 5114723,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "0bull Cast streams this device's screen to the farm host on the local network.",
+          "NSCameraUsageDescription": "0bull Cast can stream camera video to the farm host on your local network.",
+          "NSMicrophoneUsageDescription": "0bull Cast can stream microphone audio to the farm host on your local network."
+        }
+      }
+    }
+  ]
+}
