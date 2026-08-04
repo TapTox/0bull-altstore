@@ -16,6 +16,36 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.2",
+          "buildVersion": "213",
+          "marketingVersion": "1.2",
+          "date": "2026-08-04",
+          "localizedDescription": "Latest release. Reliability and performance improvements for streaming.",
+          "downloadURL": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/manifest.json",
+          "assetURLs": {
+            "manifest": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/manifest.json",
+            "signature": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/signature",
+            "0a90422e-42f4-35e0-82bc-c9560cc10b81": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/0a90422e-42f4-35e0-82bc-c9560cc10b81.ipa",
+            "85ad8142-a0d8-393c-926d-82cc4ebc84f9": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/85ad8142-a0d8-393c-926d-82cc4ebc84f9.ipa",
+            "eabde1b7-8470-3316-a8cc-ee9fa8356b83": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/eabde1b7-8470-3316-a8cc-ee9fa8356b83.ipa",
+            "ed9a1f8d-3de2-36f8-941c-ae6b6c4df60d": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/ed9a1f8d-3de2-36f8-941c-ae6b6c4df60d.ipa",
+            "005d7969-1654-302d-a79c-9c463529b226": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/005d7969-1654-302d-a79c-9c463529b226.ipa",
+            "132cda93-e1b0-38e5-a8c8-88c18a9e6999": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/132cda93-e1b0-38e5-a8c8-88c18a9e6999.ipa",
+            "1498ce82-f0ff-3d24-af4f-1e45673331dc": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/1498ce82-f0ff-3d24-af4f-1e45673331dc.ipa",
+            "381cd71a-589e-3892-b082-c9089ab2c645": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/381cd71a-589e-3892-b082-c9089ab2c645.ipa",
+            "3a1659aa-8d8c-3e32-a401-0e31e19cb8ef": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/3a1659aa-8d8c-3e32-a401-0e31e19cb8ef.ipa",
+            "3ce282bc-4698-3d96-8bff-da792d94c7b0": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/3ce282bc-4698-3d96-8bff-da792d94c7b0.ipa",
+            "46acb6d0-1ded-3a49-bb60-c39609990a0a": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/46acb6d0-1ded-3a49-bb60-c39609990a0a.ipa",
+            "76d2d019-5571-3f54-8c3f-f9d22e1f8e27": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/76d2d019-5571-3f54-8c3f-f9d22e1f8e27.ipa",
+            "8cec1896-1410-35d3-a7e7-da4d9ec60eed": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/8cec1896-1410-35d3-a7e7-da4d9ec60eed.ipa",
+            "a6430299-b75e-3854-b997-dab3a0c32ca7": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/a6430299-b75e-3854-b997-dab3a0c32ca7.ipa",
+            "b93ee585-b6c1-3182-b244-53e7742c1eb9": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/b93ee585-b6c1-3182-b244-53e7742c1eb9.ipa",
+            "e6697c7e-722d-3842-8315-7b165e216840": "https://github.com/TapTox/0bull-altstore/releases/download/adp-1.2-213/e6697c7e-722d-3842-8315-7b165e216840.ipa"
+          },
+          "size": 5153139,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.1",
           "buildVersion": "179",
           "marketingVersion": "1.1",
